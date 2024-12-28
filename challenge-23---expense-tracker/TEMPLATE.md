@@ -1,0 +1,1 @@
+This project was created with the vanilla-ts template.

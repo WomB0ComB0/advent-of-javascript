@@ -1,0 +1,1 @@
+This project was created with the solid-ts template.
